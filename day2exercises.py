@@ -11,7 +11,7 @@
 #         new_list.append(full)
 #     return new_list
         
-# build_name(first_name, last_name)
+# print(build_name(first_name, last_name))
 
 
 
@@ -28,7 +28,7 @@
 #             l_2.append(x)
 #     return l_2
         
-# less_than_ten(l_1)
+# print(less_than_ten(l_1))
 
 
 
@@ -42,4 +42,4 @@
 #     longlist.sort()
 #     return longlist
 
-# combine(l_1, l_2)
+# print(combine(l_1, l_2))
